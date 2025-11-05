@@ -16,7 +16,7 @@ const Leaderboard = () => {
     { id: 5, teamName: "Team NEEV", leader: "Priyanshu Rai", points: 0, college: "", members: ["", "", "", ""] },
     { id: 6, teamName: "Team Albatross", leader: "Anushka Patel", points: 0, college: "", members: ["", "", "", ""] },
     { id: 7, teamName: "HawkEye", leader: "Arjun Rastogi", points: 0, college: "", members: ["", "", "", ""] },
-    { id: 8, teamName: "AADARSH KUMAR MISHRA", leader: "AADARSH KUMAR MISHRA", points: 0, college: "", members: ["", "", "", ""] },
+    { id: 8, teamName: "Team_falcons", leader: "AADARSH KUMAR MISHRA", points: 0, college: "", members: ["", "", "", ""] },
     { id: 9, teamName: "Zenith", leader: "SUJAL JOLLY", points: 0, college: "", members: ["", "", "", ""] },
     { id: 10, teamName: "SkyNova", leader: "Samridh Shukla", points: 0, college: "", members: ["", "", "", ""] },
     { id: 11, teamName: "Narayana", leader: "Arav Pratap Singh Chauhan", points: 0, college: "", members: ["", "", "", ""] },
